@@ -1,0 +1,14 @@
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\bin\Debug\PointDrawer.exe.config
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\bin\Debug\PointDrawer.exe
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\bin\Debug\PointDrawer.pdb
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\obj\Debug\PointDrawer.csprojResolveAssemblyReference.cache
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\obj\Debug\MainWindow.g.cs
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\obj\Debug\App.g.cs
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\obj\Debug\PointDrawer_MarkupCompile.cache
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\obj\Debug\PointDrawer_MarkupCompile.lref
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\obj\Debug\MainWindow.baml
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\obj\Debug\PointDrawer.g.resources
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\obj\Debug\PointDrawer.Properties.Resources.resources
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\obj\Debug\PointDrawer.csproj.GenerateResource.Cache
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\obj\Debug\PointDrawer.exe
+D:\Github-Repozytoria\PointDrawer\PointDrawer\PointDrawer\obj\Debug\PointDrawer.pdb
